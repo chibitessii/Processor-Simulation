@@ -1,4 +1,4 @@
-// Author: Hongliang Gao;   Created: Jan 27 2011
+// Author: Hongliang Gao;   Created: Jan 27 2011, edited by: Autumn Knight
 // Description: sample predictors for cbp3.
 
 #include <stdio.h>
